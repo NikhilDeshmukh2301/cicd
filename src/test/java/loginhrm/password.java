@@ -39,6 +39,6 @@ public class password {
 	     Thread.sleep(3000);
 	     
 	     //clear text
-	     box.clear();
+	    
 	}
 }
