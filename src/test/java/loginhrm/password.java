@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class password {
 
+	static ChromeDriver driver;
 	@Test
 	
 	public void password() throws InterruptedException{
@@ -38,7 +39,12 @@ public class password {
 	     
 	     Thread.sleep(3000);
 	     
-	     //clear text
 	    
+	    
+	}
+	@Test
+	public void close() {
+
+	driver.quit();
 	}
 }
