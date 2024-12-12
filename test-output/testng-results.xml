@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-12T18:39:33 IST" name="Default suite" finished-at="2024-12-12T18:39:44 IST" duration-ms="10398">
+    <groups>
+    </groups>
+    <test started-at="2024-12-12T18:39:33 IST" name="Default test" finished-at="2024-12-12T18:39:44 IST" duration-ms="10398">
+      <class name="loginhrm.password">
+        <test-method signature="password()[pri:0, instance:loginhrm.password@2b662a77]" started-at="2024-12-12T18:39:33 IST" name="password" finished-at="2024-12-12T18:39:44 IST" duration-ms="10341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+      </class> <!-- loginhrm.password -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
